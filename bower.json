@@ -1,0 +1,16 @@
+{
+  "name": "simara001-testing001",
+  "version": "0.0.0",
+  "homepage": "https://github.com/simara001/simara001-testing001",
+  "authors": [
+    "Miguel Ramirez <aramis001@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
